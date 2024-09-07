@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 NNI(variable=topology,num_tried_current=0,num_tried_total=0,num_accepted_current=0,num_accepted_total=0,tuning_value=nan)
 SubtreePruneRegraft(variable=topology,num_tried_current=0,num_tried_total=0,num_accepted_current=0,num_accepted_total=0,tuning_value=nan)
 Scaling(variable=tree_length,num_tried_current=0,num_tried_total=0,num_accepted_current=0,num_accepted_total=0,tuning_value=1)
@@ -7,13 +6,3 @@ DirichletSimplex(variable=rel_br_lengths,num_tried_current=0,num_tried_total=0,n
 Scaling(variable=rate_log_sd,num_tried_current=0,num_tried_total=0,num_accepted_current=0,num_accepted_total=0,tuning_value=1)
 Scaling(variable=rate_neo,num_tried_current=0,num_tried_total=0,num_accepted_current=0,num_accepted_total=0,tuning_value=1)
 Scaling(variable=rate_loss,num_tried_current=0,num_tried_total=0,num_accepted_current=0,num_accepted_total=0,tuning_value=1)
-=======
-NNI(variable=topology,num_tried_current=291625,num_tried_total=319880,num_accepted_current=205318,num_accepted_total=225635,tuning_value=nan)
-SubtreePruneRegraft(variable=topology,num_tried_current=57879,num_tried_total=63459,num_accepted_current=9842,num_accepted_total=10944,tuning_value=nan)
-Scaling(variable=tree_length,num_tried_current=31376,num_tried_total=34411,num_accepted_current=14416,num_accepted_total=15876,tuning_value=2.11879)
-BetaSimplex(variable=rel_br_lengths,num_tried_current=582639,num_tried_total=639098,num_accepted_current=256362,num_accepted_total=282569,tuning_value=0.663031)
-DirichletSimplex(variable=rel_br_lengths,num_tried_current=58235,num_tried_total=63806,num_accepted_current=22508,num_accepted_total=23667,tuning_value=51.394)
-Scaling(variable=rate_log_sd,num_tried_current=31564,num_tried_total=34611,num_accepted_current=17047,num_accepted_total=18275,tuning_value=0.690315)
-Scaling(variable=rate_neo,num_tried_current=31438,num_tried_total=34399,num_accepted_current=14285,num_accepted_total=15779,tuning_value=3.20402)
-Scaling(variable=rate_loss,num_tried_current=31244,num_tried_total=34336,num_accepted_current=14791,num_accepted_total=16420,tuning_value=3.68435)
->>>>>>> e0b35b3 (MCMCMC output files)
